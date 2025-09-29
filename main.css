@@ -1,0 +1,9 @@
+#operator {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  z-index: 10;
+}
